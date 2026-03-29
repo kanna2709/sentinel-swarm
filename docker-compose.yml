@@ -1,0 +1,7 @@
+services:
+  swarm:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - .:/app

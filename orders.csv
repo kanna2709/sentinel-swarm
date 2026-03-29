@@ -1,0 +1,5 @@
+id,status,reason
+101,Delivered,Handed to resident
+102,Cancelled,Customer request
+103,Delivered,Left at front door
+104,Returned,Damaged goods
